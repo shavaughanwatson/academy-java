@@ -31,10 +31,21 @@ public class Strings {
 		
 		System.out.println("The index of World is:" + indexOf);
 		
-		//Find the character
+		//Find the character at the speciefed index -0
 		char c = s.charAt(0);
 		
 		System.out.print(c);
 		
+		
+		//Find the character at the speciefed index -3
+		char cl = s.charAt(3);
+		
+		String reversedWorld;
+		
+		for (int i= s.length()-1 ; i >=0 ; i--) {
+			reversedWorld += s.charAt(i);
+		}
+		
+		System.out.println(reversedWorld);
 	}
 }
