@@ -41,6 +41,5 @@ public class Strings {
 		char cl = s.charAt(3);
 		
 		
-
 	}
 }
