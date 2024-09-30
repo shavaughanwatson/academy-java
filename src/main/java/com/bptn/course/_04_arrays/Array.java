@@ -41,7 +41,7 @@ public class Array {
 		}
 		
 		//How to print elements without the using for-loop
-		System.out.println(myArray.toString(myArray)); // keep note of this.
+		System.out.println(myArray); // keep note of this.
 
 	}
 	}
