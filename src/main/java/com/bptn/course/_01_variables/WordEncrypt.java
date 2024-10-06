@@ -13,17 +13,22 @@ public class WordEncrypt {
         char ch = 'A';
         int uxiCode= ch + 1;
         char ch2= (char) uxiCode;
+        int ch3 = (char) ch + 1;
         
         System.out.println(ch);
         System.out.println(uxiCode);
         System.out.println(ch2);
+        System.out.println(ch3);
         
         String word = "XYZ";
      
-        char charAt = word.charAt(0);
+        char char1 = word.charAt(0);
+        int charAt1 = (char) char1;
+        
+        System.out.println((char)charAt1);
         
         String encryptWord = "";
-        System.out.println(charAt);
+    
      
         
         
