@@ -1,4 +1,4 @@
-package com.bptn.course._15_big_fri_coding_2._employee;
+package com.bptn.course._14a_big_fri_coding_2._employee;
 
 public class Main {
 	   public static void main(String[] args) {

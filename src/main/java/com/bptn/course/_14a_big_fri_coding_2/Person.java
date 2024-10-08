@@ -1,4 +1,4 @@
-package com.bptn.course._15_big_fri_coding_2;
+package com.bptn.course._14a_big_fri_coding_2;
 
 public class Person {
 	// Create instance variables
